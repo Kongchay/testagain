@@ -8,7 +8,6 @@ namespace ClassLibrary2
 {
     public class Class1
     {
-        //I want  to  make change
-
+        // Hey, this is Axl. Here's a change to your file.
     }
 }
